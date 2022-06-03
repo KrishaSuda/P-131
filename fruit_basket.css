@@ -1,0 +1,20 @@
+body{
+    background: cornsilk;
+    overflow: hidden;
+    color: white;
+}
+
+.heading{
+    background-color: royalblue;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.bbutton{
+    float: right;
+    margin: -5px;
+    background-color: cornsilk;
+    color: grey;
+}
+

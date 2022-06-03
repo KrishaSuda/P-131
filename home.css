@@ -1,0 +1,14 @@
+body{ 
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+}
+
+.button1{
+      background-color:lightskyblue;
+}
+
+.button1:hover{
+      color: lightslategrey;
+      background-color: lightcyan;
+}
